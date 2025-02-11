@@ -1,0 +1,72 @@
+nav {
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+footer{
+    font-size: 20px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#main-btn{
+    background-color: rgb(238, 219, 222);
+    cursor: pointer;
+    color: brown;
+    padding: 10px 20px;
+    
+}
+
+#contenu{
+    color: black;
+    font-weight: bold;
+    font-family: sans-serif;
+    font-size: large;
+    width: 500px;
+    margin: 20px auto;
+    text-align: left;
+    background-color: beige;
+}
+section div  {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+img {
+    width: 50%;
+    height: 25%;
+    display: block;
+    margin: 0 auto;
+}
+#introduction{
+    text-align: center;
+    font-size: 1.5em;
+    font-weight: bolder ;
+}
+header{
+    text-align: center;
+    background-color: beige ;  
+}
+header p {
+    color: brown;
+    font-size: large;
+}
+h1{
+    color: red;
+    text-align: center;
+    text-decoration: wavy;
+    font-size: 2.5em;
+}
+div ul {
+    list-style: none;  /* pour supprimer les point de la liste non ordonner */
+    background-color:rgb(238, 219, 222);
+    text-align: center;
+    font-size: 20px;
+    margin: 0;
+    padding: 0.5cm;
+    
+}
+div li {
+    display: inline;
+    margin-right: 50px;
+}
